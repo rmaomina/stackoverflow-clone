@@ -33,7 +33,7 @@ jwt:
   refresh-token-expiration-minutes: 1440
 
 file:
-  img: /Users/hipo/Desktop/Img/
+  img: /Users/mina/devina/_/stackoverflow-clone/images
 
 iam:
   access-key: local
